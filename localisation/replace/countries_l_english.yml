@@ -340,6 +340,9 @@
  ITA_democratic_subject_DEF: "Republican Italy"
  ITA_subject:0 "$OVERLORDADJ$ $ITA$"
  ITA_subject_DEF:0 "$OVERLORDADJ$ $ITA$"
+ #Italian opanism
+ ITA_opanism:0 "Opanist Italy"
+ ITA_opanism_ADJ:0 "Selqni"
  ROM_fascism:0 "Legionary Romania"
  ROM_fascism_DEF:0 "Legionary Romania"
  ROM_democratic:0 "Romania"
